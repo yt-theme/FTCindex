@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/yt-theme/FTCindex/issues"
   },
-  "homepage": "https://github.com/yt-theme/FTCindex#readme"
+  "homepage": "https://github.com/yt-theme/FTCindex#readme",
+  "dependencies": {
+    "mongodb": "^3.2.4"
+  }
 }
