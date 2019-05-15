@@ -1,0 +1,22 @@
+{
+  "name": "ftc",
+  "version": "1.0.0",
+  "description": "ftc index",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yt-theme/FTCindex.git"
+  },
+  "keywords": [
+    "ftc"
+  ],
+  "author": "yt",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/yt-theme/FTCindex/issues"
+  },
+  "homepage": "https://github.com/yt-theme/FTCindex#readme"
+}
